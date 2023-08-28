@@ -1377,6 +1377,7 @@ section {
 
 .appointment .php-email-form button[type=submit] {
   background: #047234;
+  width: 50%;
   border: 0;
   padding: 10px 35px;
   color: #fff;
