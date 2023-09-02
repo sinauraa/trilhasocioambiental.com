@@ -1263,9 +1263,14 @@ section {
   color: #2c4964;
 }
 
+
 .services .icon-box p {
   line-height: 24px;
   font-size: 14px;
+  text-align: left;
+  line-height: 24px;
+  font-weight: 300;
+  padding: 0 30px;
   margin-bottom: 0;
 }
 
