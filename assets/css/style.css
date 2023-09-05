@@ -1266,6 +1266,10 @@ section {
 .services .icon-box p {
   line-height: 24px;
   font-size: 14px;
+  text-align: left;
+  line-height: 24px;
+  font-weight: 300;
+  padding: 0 30px;
   margin-bottom: 0;
 }
 
@@ -1293,7 +1297,7 @@ section {
 
 /*--------------------------------------------------------------
 # Appointments
---------------------------------------------------------------
+-------------------------------------------------------------- */
 .appointment .php-email-form {
   width: 100%;
 }
@@ -1377,6 +1381,7 @@ section {
 
 .appointment .php-email-form button[type=submit] {
   background: #047234;
+  width: 50%;
   border: 0;
   padding: 10px 35px;
   color: #fff;
